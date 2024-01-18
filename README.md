@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- ⚡ Currently enroll in B. Tech in CSE (Guru Tegh Bahadur Institute of Technology)
-- 🌱 Checkout contest reminder chrome extension [codingdude](https://chromewebstore.google.com/detail/codingdude-contest-remind/gceicoplhhmgcoanpkbnopdccpghbngk)<br/>
-- Reach me out
-<a href="mailto:dhruv35m@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 
+- ⚡ Currently enrolled in B.Tech in CSE (Guru Tegh Bahadur Institute of Technology)
+- 🌱 Checkout contest reminder chrome extension [codingdude](https://chromewebstore.google.com/detail/codingdude-contest-remind/gceicoplhhmgcoanpkbnopdccpghbngk)
+- Reach out to me
+  <a href="mailto:dhruv35m@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 
 
 <!--
 **Dhruv35M/Dhruv35M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

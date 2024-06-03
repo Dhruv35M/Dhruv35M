@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Currently enrolled in B.Tech in CSE (Guru Tegh Bahadur Institute of Technology) **Batch - 2024**
-- 🌱 Checkout contest reminder chrome extension [codingdude](https://chromewebstore.google.com/detail/codingdude-contest-remind/gceicoplhhmgcoanpkbnopdccpghbngk)
+- 🌱 Checkout open source contest reminder chrome extension [codingdude](https://chromewebstore.google.com/detail/codingdude-contest-remind/gceicoplhhmgcoanpkbnopdccpghbngk)
 - 📫 Portfolio [dhruvmishra.com](http://dhruvmishra.com/)
 - Reach out to me
   <a href="mailto:dhruv35m@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 

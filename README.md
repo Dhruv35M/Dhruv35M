@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Currently enrolled in B.Tech in CSE (Guru Tegh Bahadur Institute of Technology)
+- ⚡ Currently enrolled in B.Tech in CSE (Guru Tegh Bahadur Institute of Technology) **Batch - 2024**
 - 🌱 Checkout contest reminder chrome extension [codingdude](https://chromewebstore.google.com/detail/codingdude-contest-remind/gceicoplhhmgcoanpkbnopdccpghbngk)
 - 📫 Portfolio [dhruvmishra.com](http://dhruvmishra.com/)
 - Reach out to me
